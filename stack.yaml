@@ -1,0 +1,10 @@
+flags: {}
+extra-package-dbs: []
+packages:
+- '.'
+- '../parser241'
+extra-deps:
+- ListWriter-0.1.0.0
+- regex-compat-tdfa-0.95.1.4
+- parser241-1.0.0.0
+resolver: lts-3.4
